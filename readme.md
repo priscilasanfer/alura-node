@@ -1,6 +1,7 @@
 # Node.js: API Rest com Express e MongoDB
 
 ### Sobre
+- Curso realiazado na Alura: https://cursos.alura.com.br/completeCourse/nodejs-api-rest-express-mongodb  
 API Rest para cadastrar recursos como livros, autores.  
 Api dividida pacotes em controlador, em models, em rotas.   
 Verbos HTTP para buscar corretamente os livros, cadastrar, atualizar e excluir fechando um CRUD completo.  
